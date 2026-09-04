@@ -103,7 +103,7 @@ def upload_to_qrz(api_key: str, adif_string: str) -> dict[str, str]:
     }
 
     headers: dict[str, str] = {
-        'User-Agent': 'fldigi_to_qrz/0.1.0 (KB3BMC)',
+        'User-Agent': 'fldigi_to_qrz/0.1.0 (N3BMC)',
     }
 
     try:
