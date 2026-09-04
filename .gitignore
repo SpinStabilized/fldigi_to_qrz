@@ -14,3 +14,6 @@ wheels/
 
 # Log Files
 *.log
+
+# Utility files
+clublog_lockout.txt
